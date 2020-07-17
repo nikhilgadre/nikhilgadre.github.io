@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Nikhil Gadre Personal Website'
+project = 'Nikhil Gadre'
 copyright = '2020, Nikhil Gadre'
 author = 'Nikhil Gadre'
 
