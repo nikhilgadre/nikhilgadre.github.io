@@ -22,16 +22,21 @@ copyright = '2020, Nikhil Gadre'
 author = 'Nikhil Gadre'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0'
+release = '2.0.0'
 
 
 # -- General configuration ---------------------------------------------------
-import alabaster
+from datetime import datetime
+import sphinx_fontawesome
+year = datetime.now().year
+copyright = u"%d Nikhil Gadre" % year
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['alabaster']
+extensions = [
+]
+extensions = ['sphinx_fontawesome']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -47,31 +52,28 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-
-html_theme_path = [alabaster.get_path()]
-
 html_theme = 'alabaster'
-# html_sidebars = {
-#     '**': ['logo.html', 'about.html'],
-# }
-# html_sidebars = {
-#     '**': ['localtoc.html',
-#            'relations.html',
-#            'searchbox.html',
-#            'about.html'],
-# }
-html_theme_options = {'nosidebar': False}
-# html_theme_options = {'nosidebar': True}
 
 html_sidebars = {
     '**': [
         'about.html',
+        'logo.html',
+        #'connect.html',
         'navigation.html',
-        'relations.html',
-        'searchbox.html',
-        'donate.html',
+        #'relations.html',
+        #'searchbox.html',
+        #'donate.html',
     ]
 }
+
+html_theme_options = {'nosidebar': False, "description": "Network Engineer | DevOps",
+    #"github_user": "bitprophet",
+    #"github_repo": "alabaster",
+    #"fixed_sidebar": True,
+    #"tidelift_url": "https://tidelift.com/subscription/pkg/pypi-alabaster?utm_source=pypi-alabaster&utm_medium=referral&utm_campaign=docs",  # noqa
+    }
+
+html_css_files = ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"]
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

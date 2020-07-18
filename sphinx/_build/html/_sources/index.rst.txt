@@ -1,5 +1,5 @@
-.. Nikhil Gadre Personal Website documentation master file, created by
-   sphinx-quickstart on Fri Jul 17 14:45:56 2020.
+.. Nikhil Gadre documentation master file, created by
+   sphinx-quickstart on Fri Jul 17 17:53:17 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -17,7 +17,8 @@ I'll be graduating in **May 2021**.
 
 I was a `Campus Lead (Class of 2019) <https://www.ishubus.com/engage/opportunities/leads/2019#h.p_HWLuzwZDtxY->`_ in the **Campus Lead Program** of the **Embassy of India Student Hub, USA** for University of Colorado, Boulder.
 
-To find all the information in one place, check out my resume.
+To find all the information in one place, check out my :download:`resume </website_files/Nikhil Gadre Resume.pdf>`.
+
 
 Information
 ===========
@@ -30,13 +31,14 @@ Information
    certifications
    skills
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Connect With Me
+===============
+:fa:`envelope` `Email <mailto:nikhil.gadre@colorado.edu>`_
 
-Indices and tables
-==================
+:fa:`github` `GitHub <mailto:nikhil.gadre@colorado.edu>`_
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+:fa:`linkedin` `LinkedIn <mailto:nikhil.gadre@colorado.edu>`_
+
+:fa:`twitter` `Twitter <mailto:nikhil.gadre@colorado.edu>`_
+
+:fa:`globe` `NikhilGadre.com <mailto:nikhil.gadre@colorado.edu>`_
