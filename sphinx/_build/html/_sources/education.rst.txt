@@ -7,22 +7,22 @@ Education
 | **University of Colorado Boulder, CO, USA**
 | *August 2019 - May 2021 (Expected)*
 
-| **Courses:**
-| Fundamentals of Data Communication
-| Introduction to Enterprise Networks
-| Network Management and Automation
-| Software-Defined Networking (Fall 2020)
+**Courses:**
+Fundamentals of Data Communication,
+Introduction to Enterprise Networks,
+Network Management and Automation,
+Software-Defined Networking (Fall 2020)
 
 :fa:`graduation-cap` Bachelor of Engineering - Electronics & Telecommunication
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| **Savtribai Phule Pune University (Formerly University of Pune), MH, India**
-| *August 2012 - May 2016*
+**Savtribai Phule Pune University (Formerly University of Pune), MH, India**
+*August 2012 - May 2016*
 
-| **Courses:**
-| Computer Networks
-| Digital Communication
-| Mobile Communication
-| Wireless Networks
+**Courses:**
+Computer Networks,
+Digital Communication,
+Mobile Communication,
+Wireless Networks
 
 Training
 ^^^^^^^^

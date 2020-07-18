@@ -10,9 +10,11 @@ Welcome to my website created using Sphinx.
 
 Hi, I'm Nikhil.
 
+
 I am interested in **Network Engineering** and **DevOps**. I love doing **Automation** in **Python**.
 
 Currently, I'm pursing my **Masters in Telecommunications** in the **Interdisciplinary Telecommunications Program** at **University of Colorado Boulder**.
+
 I'll be graduating in **May 2021**.
 
 I was a `Campus Lead (Class of 2019) <https://www.ishubus.com/engage/opportunities/leads/2019#h.p_HWLuzwZDtxY->`_ in the **Campus Lead Program** of the **Embassy of India Student Hub, USA** for University of Colorado, Boulder.
@@ -33,12 +35,4 @@ Information
 
 Connect With Me
 ===============
-:fa:`envelope` `Email <mailto:nikhil.gadre@colorado.edu>`_
-
-:fa:`github` `GitHub <https://github.com/nikhilgadre/>`_
-
-:fa:`linkedin` `LinkedIn <https://www.linkedin.com/in/nikhil-gadre/>`_
-
-:fa:`twitter` `Twitter <https://twitter.com/niksrocky>`_
-
-:fa:`globe` `NikhilGadre.com <https://www.nikhilgadre.com/>`_
+| :fa:`envelope` `Email <mailto:nikhil.gadre@colorado.edu>`_ | :fa:`github` `GitHub <https://github.com/nikhilgadre/>`_ | :fa:`linkedin` `LinkedIn <https://www.linkedin.com/in/nikhil-gadre/>`_ | :fa:`twitter` `Twitter <https://twitter.com/niksrocky>`_ | :fa:`globe` `NikhilGadre.com <https://www.nikhilgadre.com/>`_
