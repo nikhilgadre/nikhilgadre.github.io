@@ -35,10 +35,10 @@ Connect With Me
 ===============
 :fa:`envelope` `Email <mailto:nikhil.gadre@colorado.edu>`_
 
-:fa:`github` `GitHub <mailto:nikhil.gadre@colorado.edu>`_
+:fa:`github` `GitHub <https://github.com/nikhilgadre/>`_
 
-:fa:`linkedin` `LinkedIn <mailto:nikhil.gadre@colorado.edu>`_
+:fa:`linkedin` `LinkedIn <https://www.linkedin.com/in/nikhil-gadre/>`_
 
-:fa:`twitter` `Twitter <mailto:nikhil.gadre@colorado.edu>`_
+:fa:`twitter` `Twitter <https://twitter.com/niksrocky>`_
 
-:fa:`globe` `NikhilGadre.com <mailto:nikhil.gadre@colorado.edu>`_
+:fa:`globe` `NikhilGadre.com <https://www.nikhilgadre.com/>`_
