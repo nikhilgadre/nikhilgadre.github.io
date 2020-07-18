@@ -8,7 +8,7 @@ Home
 ****
 Welcome to my website created using Sphinx.
 
-Hi, I'm Nikhil.
+Hi, I'm **Nikhil**.
 
 
 I am interested in **Network Engineering** and **DevOps**. I love doing **Automation** in **Python**.
