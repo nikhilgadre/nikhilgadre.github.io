@@ -9,8 +9,6 @@ Currently, I'm a **Software Developer Intern** at **Aarna Networks**.
 
 I am interested in **Network Engineering** and **DevOps**. I love doing **Automation** in **Python**.
 
-:fa:`user-alt`
-
 Hobbies & Interests:
 ^^^^^^^^^^^^^^^^^^^^
 * Cooking
