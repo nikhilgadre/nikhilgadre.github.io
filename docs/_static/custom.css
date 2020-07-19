@@ -1,4 +1,5 @@
 @import url("basic.css");
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
 
 /* -- page layout ----------------------------------------------------------- */
 
@@ -7,7 +8,8 @@ b, strong {
     }
 
 body {
-    font-family: Georgia, serif;
+    /* font-family: Georgia, serif; */
+    font-family: 'Raleway', sans-serif;
     font-size: 17px;
     background-color: #0A192F;
     color: #A8B2D1;
@@ -58,6 +60,7 @@ div.footer {
     text-align: center;
     border-top: 1px solid #CCD6F6;
     padding-top: 10px;
+    font-family: 'Raleway', sans-serif;
 }
 
 div.footer a {
@@ -76,14 +79,17 @@ div.relations {
 
 
 div.sphinxsidebar a {
+    font-family: 'Raleway', sans-serif;
     color: #CCD6F6;
     text-decoration: none;
     border-bottom: 1px dotted #CCD6F6;
 }
 
 div.sphinxsidebar a:hover {
-    border-bottom: 1px solid #F2F2F2;
-    color: #F2F2F2;
+    /* border-bottom: 1px solid #F2F2F2; */
+    /* color: #F2F2F2; */
+    background: #F2F2F2;
+    color: #0A192F
 }
 
 div.sphinxsidebarwrapper {
@@ -97,6 +103,7 @@ div.sphinxsidebarwrapper p.logo {
 }
 
 div.sphinxsidebarwrapper h1.logo {
+    text-transform: uppercase;
     margin-top: -20px;
     text-align: center;
     margin-bottom: 5px;
@@ -109,6 +116,7 @@ div.sphinxsidebarwrapper h1.logo-name {
 }
 
 div.sphinxsidebarwrapper p.blurb {
+    font-family: 'Raleway', sans-serif;
     margin-top: 0;
     font-style: normal;
     text-align: center;
@@ -116,7 +124,8 @@ div.sphinxsidebarwrapper p.blurb {
 
 div.sphinxsidebar h3,
 div.sphinxsidebar h4 {
-    font-family: Georgia, serif;
+    /* font-family: Georgia, serif; */
+    font-family: 'Raleway', sans-serif;
     color: #CCD6F6;
     font-size: 24px;
     font-weight: normal;
